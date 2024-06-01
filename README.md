@@ -1,9 +1,9 @@
 # Nudge Evidence Briefing
 
-Nudge Evidence Briefing (NEB) são documentos de uma página que resumem informações essenciais sobre estudos primários relacionados a nudges. 
+Nudge Evidence Briefing (NEB) documents are one-page summaries that encapsulate essential information about primary studies related to **nudges**.
 
-A estrutura dos NEBs inclui elementos-chave como um título conciso, o objetivo do resumo, uma seção principal que aborda o contexto, o comportamento desejado, os nudges utilizados no estudo e as barreiras cognitivas e vieses. A estrutura inclui também resultados e conclusões, uma caixa informativa que especifica a categoria do nudge, o público-alvo, contexto e materiais relevantes.  
+The structure of NEBs includes key elements such as a concise title, the objective of the briefing, and a main section that addresses the context, desired behavior, nudges used in the study, and cognitive barriers and biases. The structure also includes results and conclusions, along with an information box specifying the nudge category, target audience, context, and relevant materials.
 
-O NEB é uma abordagem eficaz para a síntese e apresentação de evidências científicas, apoiando o uso do conhecimento científico pela indústria e replicação da pesquisa pela academia na integração de nudges em contextos práticos.
+The NEB is an effective approach for synthesizing and presenting scientific evidence, supporting the use of scientific knowledge by industry and facilitating research replication by academia in integrating nudges into practical contexts.
 
 [Template.Guide.NEB.docx](https://github.com/user-attachments/files/15522689/Template.Guide.NEB.docx)
